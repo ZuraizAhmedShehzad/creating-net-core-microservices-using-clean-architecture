@@ -1,0 +1,82 @@
+﻿[
+  {
+    "Id": "65a2b3c4d5e6f7g8h9i0j1k",
+    "Name": "Ultra Boost Sneakers",
+    "Summary": "High-performance running shoes with responsive cushioning.",
+    "Description": "Designed for athletes, these sneakers provide unmatched comfort and energy return.",
+    "ImageFile": "ultra_boost.jpg",
+    "Brands": {
+      "Id": "1a2b3c",
+      "Name": "Adidas"
+    },
+    "Types": {
+      "Id": "4d5e6f",
+      "Name": "Footwear"
+    },
+    "Price": 179.99
+  },
+  {
+    "Id": "75m6n7o8p9q0r1s2t3u4v5w",
+    "Name": "Performance T-Shirt",
+    "Summary": "Breathable, lightweight, and moisture-wicking t-shirt for active lifestyles.",
+    "Description": "Stay cool and dry with our advanced fabric technology.",
+    "ImageFile": "performance_tshirt.jpg",
+    "Brands": {
+      "Id": "7g8h9i",
+      "Name": "NimbusWear"
+    },
+    "Types": {
+      "Id": "1a2b3c",
+      "Name": "Clothing"
+    },
+    "Price": 39.99
+  },
+  {
+    "Id": "85x6y7z8a9b0c1d2e3f4g5h",
+    "Name": "Smart Fitness Band",
+    "Summary": "Track your fitness goals with real-time monitoring.",
+    "Description": "Features heart rate tracking, step counting, and sleep analysis.",
+    "ImageFile": "smart_fitness_band.jpg",
+    "Brands": {
+      "Id": "0j1k2l",
+      "Name": "SwiftStride"
+    },
+    "Types": {
+      "Id": "0j1k2l",
+      "Name": "Electronics"
+    },
+    "Price": 89.99
+  },
+  {
+    "Id": "95i6j7k8l9m0n1o2p3q4r5s",
+    "Name": "Ergonomic Backpack",
+    "Summary": "Spacious, durable, and designed for comfort.",
+    "Description": "Perfect for daily commuting and travel with multiple compartments.",
+    "ImageFile": "ergonomic_backpack.jpg",
+    "Brands": {
+      "Id": "5y6z7a",
+      "Name": "AeroStride"
+    },
+    "Types": {
+      "Id": "7g8h9i",
+      "Name": "Accessories"
+    },
+    "Price": 69.99
+  },
+  {
+    "Id": "05t6u7v8w9x0y1z2a3b4c5d",
+    "Name": "Foam Roller",
+    "Summary": "Deep tissue massage for muscle recovery.",
+    "Description": "Ideal for reducing soreness and improving flexibility post-workout.",
+    "ImageFile": "foam_roller.jpg",
+    "Brands": {
+      "Id": "9s0t1u",
+      "Name": "MomentumFit"
+    },
+    "Types": {
+      "Id": "3m4n5o",
+      "Name": "Sports Equipment"
+    },
+    "Price": 29.99
+  }
+]

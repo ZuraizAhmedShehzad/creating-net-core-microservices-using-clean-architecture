@@ -1,0 +1,42 @@
+﻿[
+  {
+    "Id": "1a2b3c",
+    "Name": "Adidas"
+  },
+  {
+    "Id": "4d5e6f",
+    "Name": "NimbusWear"
+  },
+  {
+    "Id": "7g8h9i",
+    "Name": "VertexApparel"
+  },
+  {
+    "Id": "0j1k2l",
+    "Name": "SwiftStride"
+  },
+  {
+    "Id": "3m4n5o",
+    "Name": "PeakPulse"
+  },
+  {
+    "Id": "6p7q8r",
+    "Name": "ElevateGear"
+  },
+  {
+    "Id": "9s0t1u",
+    "Name": "MomentumFit"
+  },
+  {
+    "Id": "2v3w4x",
+    "Name": "FusionFlex"
+  },
+  {
+    "Id": "5y6z7a",
+    "Name": "AeroStride"
+  },
+  {
+    "Id": "8b9c0d",
+    "Name": "UltraNova"
+  }
+]

@@ -1,0 +1,42 @@
+﻿[
+  {
+    "Id": "1a2b3c",
+    "Name": "Clothing"
+  },
+  {
+    "Id": "4d5e6f",
+    "Name": "Footwear"
+  },
+  {
+    "Id": "7g8h9i",
+    "Name": "Accessories"
+  },
+  {
+    "Id": "0j1k2l",
+    "Name": "Electronics"
+  },
+  {
+    "Id": "3m4n5o",
+    "Name": "Sports Equipment"
+  },
+  {
+    "Id": "6p7q8r",
+    "Name": "Beauty & Personal Care"
+  },
+  {
+    "Id": "9s0t1u",
+    "Name": "Home & Kitchen"
+  },
+  {
+    "Id": "2v3w4x",
+    "Name": "Automotive"
+  },
+  {
+    "Id": "5y6z7a",
+    "Name": "Toys & Games"
+  },
+  {
+    "Id": "8b9c0d",
+    "Name": "Books & Stationery"
+  }
+]
